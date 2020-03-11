@@ -6,6 +6,7 @@ Topics:
 * React Router V5 (react-router-dom)
 * Routing, declarative component based routing
 * Path and Component
+* Xaver Pinero
 
 ## Project Description
 
@@ -42,3 +43,4 @@ Topics:
 
 * [Code Sandbox from Lecture](https://codesandbox.io/s/n58oqgwmP)
 * [React Router Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start)
+* Xaver Pinero
