@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  color: blue;
+}
+
+.link-style {
+  color: blueviolet;
 }
 
 .Nav-link {
@@ -8,4 +13,9 @@
 
 .nav-item {
   margin-top: 1rem;
+}
+
+.page-title {
+  color: blueviolet;
+  text-align: center;
 }
